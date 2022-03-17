@@ -39,3 +39,4 @@ Ejercicio 2
 
 [ ] Haz una captura de pantalla del resultado del comando git log --graph --all. Observa que se ha creado un nuevo commit que integra los dos caminos anteriores.
 
+CAPTURAS DE PANTALLA: https://drive.google.com/drive/folders/1HpyU35LEPlFkFY0Uo35hkMFNNWO_1uNQ?usp=sharing
